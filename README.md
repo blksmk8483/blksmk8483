@@ -8,6 +8,8 @@ Graduate from the University of Texas Austin Full Stack Coding Bootcamp. Experie
 - 🔭 I’m currently working on Javascript, React, and full stack application projects.
 - 👯 I’m looking to collaborate to a team that prioritizes community while continually striving for excellence.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blksmk8483&theme=dark)](https://git.io/streak-stats)
+
 
 
 <!--
