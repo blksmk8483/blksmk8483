@@ -7,7 +7,7 @@ Graduate from the University of Texas Austin Full Stack Coding Bootcamp. Experie
 - 🌱 I’m currently learning full stack development.
 - 🔭 I’m currently working on Javascript, React, and full stack application projects.
 - 👯 I’m looking to collaborate to a team that prioritizes community while continually striving for excellence.
-- 📫 How to reach me: 
+
 - email: knightbrandon1984@gmail.com
 - LinkedIN: www.linkedin.com/in/brandonknight8483
 
