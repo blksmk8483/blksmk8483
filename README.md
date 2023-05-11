@@ -17,7 +17,7 @@ LinkedIN: www.linkedin.com/in/brandonknight8483
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=blksmk8483&theme=dark)](https://git.io/streak-stats) -->
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blksmk8483&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blksmk8483&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
