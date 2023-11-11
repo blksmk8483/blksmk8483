@@ -9,7 +9,7 @@ Graduate from the University of Texas Austin Full Stack Coding Bootcamp. Experie
 - 👯 I’m looking to collaborate to a team that prioritizes community while continually striving for excellence.
 
 ## CONTACT ME:
-Email: knightbrandon1984@gmail.com <br>
+Email: brandonknightwork@gmail.com <br>
 LinkedIN: www.linkedin.com/in/brandonknight8483
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=blksmk8483&theme=vue)](https://git.io/streak-stats)
