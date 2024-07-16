@@ -1,12 +1,14 @@
 ## Hi, I'm Brandon!
 
-I am here for the challenge! I pride myself in taking on challenges, solving them, and trying to be creative in the process. 
+Music educator turned web developer, I am excited to embark on a new career as a Full-Stack Web Developer.
 
-Graduate from the University of Texas Austin Full Stack Coding Bootcamp. Experience with React, JavaScript, HTML, CSS, Node, Express, MongoDB, Bootstrap and more... I am excited to start a new career as Full-Stack Web Developer.
+I graduated from the Full Stack Coding Bootcamp at the University of Texas Austin, where I gained a solid foundation in React, JavaScript, HTML, CSS, Express, MongoDB, Bootstrap, Tailwind, and more.
 
-- 🌱 I’m currently learning full stack development.
-- 🔭 I’m currently working on Javascript, React, and full stack application projects.
-- 👯 I’m looking to collaborate to a team that prioritizes community while continually striving for excellence.
+In my previous role as a Band Director, I was an integral part of a dedicated team of directors. Together, we guided our student musicians to numerous achievements within the Fine Arts realm. This experience cultivated essential skills in teaching, music technology, public speaking, public engagement, communication, and effective team collaboration.
+
+I hold a Bachelor of Science Degree in Education. Additionally, I ventured into entrepreneurship by founding Lavender Cove Farm, where I manage the day-to-day operations. Our business caters to both local and online customers and provides education for growing in the Central Texas area.
+
+I am eager to apply my diverse skill set and experiences to contribute to innovative web development projects, continuously learning and growing in this dynamic field.
 
 ## CONTACT ME:
 Email: brandonknightwork@gmail.com <br>
